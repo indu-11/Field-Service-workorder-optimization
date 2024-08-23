@@ -1,2 +1,6 @@
 # Field-Service-workorder-optimization
-Field Service Work Order Optimization helps companies assign the right technician to the right job based on location, availability, and skills. It prioritizes urgent tasks, keeps technicians informed, and uses data to improve efficiency. By reducing travel time and delays, the system lowers costs and ensures faster, better service. This leads to higher customer satisfaction and smoother field operations.
+Field Service Work Order Optimization streamlines technician assignments by considering factors like location, availability, and skills, ensuring the right technician is assigned to each job. It prioritizes tasks, reducing travel time and delays, which cuts operational costs. The system enhances real-time communication with technicians, improving response times and service quality. Data-driven decisions optimize efficiency and customer satisfaction, leading to smoother field operations and higher service standards.
+
+# Demo for the project process: 
+
+ https://youtu.be/siKb9nf4zXA
