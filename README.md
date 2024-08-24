@@ -8,8 +8,8 @@ Field Service Work Order Optimization streamlines technician assignments by cons
 
  #Output screenshots
  
-#Getting Started
-Clone the Repository:
+# Getting Started
+# Clone the Repository:
 git clone https://github.com/snehalathaR/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL.git
 Setup Salesforce Environment:
 Log in to your Salesforce Developer account.
