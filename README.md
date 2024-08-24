@@ -10,6 +10,6 @@ Field Service Work Order Optimization streamlines technician assignments by cons
  
 ## Getting Started
 
-1. **Clone the Repository:**
+**Clone the Repository:**
    ```bash
-   git clone https://github.com/snehalathaR/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL.git
+(https://github.com/indu-11/Field-Service-workorder-optimization)
