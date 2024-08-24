@@ -8,14 +8,8 @@ Field Service Work Order Optimization streamlines technician assignments by cons
 
  #Output screenshots
  
-# Getting Started
-Clone the Repository:
-" git clone " https://github.com/snehalathaR/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL.git
-Setup Salesforce Environment:
-Log in to your Salesforce Developer account.
-Create custom objects, fields, and relationships as per the application's data model.
-Implement the rollup summary fields, cross-object formula fields, and validation rules.
-Configure permission sets and roles according to the provided requirements.
-Deploy and Test:
-Deploy the application to your Salesforce environment.
-Test the application features including reporting, dashboards, and data access controls.
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/snehalathaR/A-CRM-APPLICATION-FOR-WHOLESALE-RICE-MILL.git
