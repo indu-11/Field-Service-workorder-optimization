@@ -5,8 +5,7 @@ Field Service Work Order Optimization streamlines technician assignments by cons
 
  https://youtu.be/siKb9nf4zXA
 
-
- #Output screenshots
+## Output screenshots
  
 ## Getting Started
 
